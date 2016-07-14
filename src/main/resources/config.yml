@@ -1,0 +1,11 @@
+whitelist:
+  enabled: true
+  notify-admins: true
+messages-prefix: "&o"
+messages:
+  access-denied: "You lack the required permissions to access that."
+  whitelist: "You are not whitelisted!"
+  whitelist-notify: "Non-whitelisted player tried to join:&r"
+  whitelist-usage: "Usage: /whitelist <list|add|remove>"
+  whitelist-list: "Whitelisted players:&r"
+  whitelist-unsupported: "This command is not supported."
